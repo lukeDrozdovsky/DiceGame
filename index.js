@@ -6,12 +6,12 @@ var randomNumber1 = Math.floor(Math.random() * 6);
 var randomNumber2 = Math.floor(Math.random() * 6);
 
 const images = [
-    './images/dice1.png',
-    './images/dice2.png',
-    './images/dice3.png',
-    './images/dice4.png',
-    './images/dice5.png',
-    './images/dice6.png',
+    './images/dice1.svg',
+    './images/dice2.svg',
+    './images/dice3.svg',
+    './images/dice4.svg',
+    './images/dice5.svg',
+    './images/dice6.svg',
   ];
   
 var dices = document.querySelectorAll("img");
